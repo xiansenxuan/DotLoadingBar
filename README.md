@@ -3,7 +3,7 @@
 - 三个点左右重复平移的加载动画
 - 可以自动切换颜色
 - 可以修改颜色
-- 继承自View
+- 继承自RelativeLayout
 
 Add DotLoadingBar to your project
 ========
